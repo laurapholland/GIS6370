@@ -1,5 +1,5 @@
 # GIS6370
-Map Portfolio for GIS6370 at UGA
+Laura Ann Holland's Map Portfolio for GIS6370 at UGA
 
 
 # Table of Contents
