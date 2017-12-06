@@ -15,6 +15,6 @@ Map 5 - Suitability Analysis for Athens, Georgia Training Center
 
 Map 6 - Residential Population and Hospital Service Areas in the City of Atlanta
 
-Map 7 - Schools with the Athens Downtown Development Authority Boundaries
+Map 7 - Schools within the Athens Downtown Development Authority Boundaries
 
 Map 8 - Georgia Higher Education and 8th Grade English Proficiency
